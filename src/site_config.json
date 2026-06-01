@@ -1,0 +1,47 @@
+{
+  "siteName": "Newston",
+  "instagramUrl": "https://www.instagram.com/newstonnewspaper?igsh=a2UxeTM5d2Vpcmpt",
+  "joinUrl": "https://forms.gle/4Y8CJsfJBkoTDEyT8",
+  "sections": [
+    {
+      "slug": "school-community",
+      "name": "School Community",
+      "folder": "school-community",
+      "description": "Stories, profiles, reflections, and updates from Newton College life."
+    },
+    {
+      "slug": "sports",
+      "name": "Sports",
+      "folder": "sports",
+      "description": "Match reports, team highlights, student athletes, and the spirit of competition."
+    },
+    {
+      "slug": "global-issues-culture",
+      "name": "Global Issues & Culture",
+      "folder": "global-issues-culture",
+      "description": "Student perspectives on culture, world events, ideas, and the wider community."
+    }
+  ],
+  "team": [
+    {
+      "name": "Bianca Patroni",
+      "role": "Editor in Chief",
+      "image": ""
+    },
+    {
+      "name": "Ariana Cordero",
+      "role": "Co-Editor in Chief",
+      "image": "assets/team/ariana-cordero.jpg"
+    },
+    {
+      "name": "Almudena Proaño",
+      "role": "Communication Director",
+      "image": "assets/team/almudena-proano.jpeg"
+    },
+    {
+      "name": "Ivana Bozovich",
+      "role": "Media Director",
+      "image": "assets/team/ivana-bozovich.jpeg"
+    }
+  ]
+}
