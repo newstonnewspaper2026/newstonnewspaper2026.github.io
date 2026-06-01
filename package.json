@@ -1,0 +1,10 @@
+{
+  "name": "newston-newspaper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static GitHub Pages website for the Newston student newspaper.",
+  "scripts": {
+    "build": "python3 scripts/build_site.py",
+    "serve": "python3 -m http.server 4321 -d dist"
+  }
+}
