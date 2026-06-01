@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Ivana Bozovich</title>
+  <desc id="desc">Editorial team portrait placeholder for Ivana Bozovich.</desc>
+  <rect width="800" height="600" fill="#eef7f0"/>
+  <path d="M0 420c130-94 250-94 360 0s246 98 440 0v180H0Z" fill="#dceee3"/>
+  <circle cx="400" cy="230" r="82" fill="#b18a3b"/>
+  <path d="M250 570c18-114 78-176 150-176s132 62 150 176H250Z" fill="#123c2c"/>
+  <text x="400" y="518" text-anchor="middle" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#fffdf7">IB</text>
+</svg>

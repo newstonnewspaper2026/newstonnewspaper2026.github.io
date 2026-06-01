@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Almudena Proaño</title>
+  <desc id="desc">Editorial team portrait placeholder for Almudena Proaño.</desc>
+  <rect width="800" height="600" fill="#f4f1e8"/>
+  <circle cx="650" cy="470" r="140" fill="#dceee3"/>
+  <rect x="64" y="68" width="210" height="210" rx="32" fill="#eef7f0"/>
+  <circle cx="400" cy="225" r="82" fill="#32835d"/>
+  <path d="M246 570c20-118 80-182 154-182s134 64 154 182H246Z" fill="#123c2c"/>
+  <text x="400" y="518" text-anchor="middle" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#fffdf7">AP</text>
+</svg>

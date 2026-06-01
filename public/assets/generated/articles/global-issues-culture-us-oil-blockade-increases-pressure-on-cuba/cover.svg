@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-label="US Oil Blockade Increases Pressure on Cuba">
+  <style>
+    .paper { fill: #fffdf7; }
+    .rule { stroke: #2c7a2a; stroke-width: 5; }
+    .strip { fill: #2c7a2a; }
+    .tiny { fill: rgba(255,253,247,0.76); font-family: Arial, sans-serif; font-size: 26px; font-weight: 800; }
+    .section { fill: #2c7a2a; font-family: Arial, sans-serif; font-size: 30px; font-weight: 900; }
+    .title { fill: #2c7a2a; font-family: Georgia, 'Times New Roman', serif; font-size: 86px; font-weight: 500; }
+  </style>
+  <rect class="paper" width="1080" height="1350"/>
+  <line class="rule" x1="64" y1="96" x2="1016" y2="96"/>
+  <text x="64" y="170" class="title">US Oil Blockade</text>
+<text x="64" y="242" class="title">Increases Pressure on</text>
+<text x="64" y="314" class="title">Cuba</text>
+  <text class="section" x="64" y="1040">GLOBAL ISSUES &amp; CULTURE</text>
+  <line class="rule" x1="64" y1="1128" x2="1016" y2="1128"/>
+  <rect class="strip" x="0" y="1160" width="1080" height="68"/>
+  <text class="tiny" x="52" y="1204">NEWSTON</text>
+  <text class="tiny" x="280" y="1204">NEWSTON</text>
+  <text class="tiny" x="508" y="1204">NEWSTON</text>
+  <text class="tiny" x="736" y="1204">NEWSTON</text>
+  <line class="rule" x1="64" y1="1268" x2="1016" y2="1268"/>
+</svg>
