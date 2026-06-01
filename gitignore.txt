@@ -1,0 +1,21 @@
+# Generated website output
+dist/
+
+# Generated article assets
+public/assets/generated/
+public/generated/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS files
+.DS_Store
+
+# Editor files
+.vscode/
+.idea/
